@@ -1,0 +1,143 @@
+Digital CBO AI Contextual Assesment E0 
+
+Note: Some answers may be incorrect. 
+
+1.) State True or False – Natural Language is considered structured data. 
+
+-> False 
+
+2.) A customer is expecting from TCS to provide the transcript of audio messages delivered by it’s market analysts. Which solution will be the best fit to enable the automation? 
+
+-> Speech to text converter 
+
+3.) State True or False – NLP cannot be applied in multiple languages. It can be leveraged only in English. 
+
+-> False 
+
+4.) Which of these are a part of the “Life cycle of a bot”? 
+
+-> Development, Deployment, Analysis 
+
+5.) Which of the following is Cognitive automation platform that allows to digitally transform the infrastructure operations making it proactive and predictive? 
+
+-> Cognix 
+
+6.) Which of these are NLP engines? 
+
+-> MS LUIS, Amazon Lambda, MS AZURE, Amazon Lex 
+
+7.) What is the role of a Data Architect in an AI ML Project? 
+
+-> Build data solutions that are optimized for performance and design applications 
+
+8.) Which if the following is a type of Supervised Learning that refers to Predictive modelling, which specifies a class to which data elements belong to and is best used when the output is finite? 
+
+-> Machine Learning – Classification 
+
+9.) Which of the following is a TCS’ Automation Solution Platform consisting multiple solutions cutting across industry verticals and business offerings? 
+
+-> Cognix 
+
+10.) Your process handles payment processing for the client. Of late, you are witnessing an increasing trend in duplicate payments. What effective solution can you suggest your management to reduce the duplicate payments in the process? 
+
+-> Cognix Dupllicate Finder 
+
+11.) What are the benefits of using RPA? 
+
+-> All of the above 
+
+12.) MFDM stands for -  
+
+-> Machine First Delivery Model 
+
+13.) What is true about Machine Learning? 
+
+-> All of the above 
+
+14.) A process handles the email helpdesk and has a strict SLA to acknowledge all emails within 2 hours and provide solution within 24hours. Emails are received from different geographies for specific teams. Processing team finds it difficult to identify their respective emails and then respond within the given SLA. What are the possible solutions that one can suggest? 
+
+-> Robotic Process Automation 
+
+15.) Which of the following is a framework towards automationg activities in Service Desk/Contact Center environments, leveraging AI/ML capabilities? 
+
+-> ignio 
+
+16.) Which of the following is TCS document processing ML solution? 
+
+-> DIAS 
+
+17.) Among the given options, which search algorithm requires less memory? 
+
+-> Depth First search 
+
+18.) _____________ refers to process of extraction of images, text, data and others insights from a digital images through algorithms. 
+
+-> Text Analytics 
+
+19.) Which of the following is an implementation of AI to transform input data into natural language. 
+
+-> Natural Language Processing 
+
+20.) Data munging is _______________ 
+
+-> A process to clean messy data 
+
+21.) Which among the following is not an RPA tool? 
+
+-> Backline 
+
+22.) Which of the following is a 3rd party product in the field of Robotic Process automation? 
+
+-> Automation Anywhere 
+
+23.) Which of the following language is used frequently in AI ML Projects? 
+
+-> R & Python 
+
+24.) Which one of the following is not a TCS Solution 
+
+-> UIPath 
+
+25.) Which of the following deals with machines/computers that can intepret/gain high level insights from digital images or videos? 
+
+-> Computer Vision 
+
+26.) A customer is seeking TCS help for creating an automated weekly outstanding payment report by referring to multiple excel reports received from customer. Which automation solution you feel fit for this scenario? 
+
+-> RPA 
+
+27.) You are encountering a challenge of Automating a process, that involves extracting the text from readable PDF documents. That do you think will be key part of solution for the automation? 
+
+-> OCR Solution like ABBYY, Tesseract, etc 
+
+28.) ___________ is the generation of collection of digital data representing a physical object or system 
+
+-> Digital Twin 
+
+29.) Which of the following is required skills for a Data Scientist? 
+
+-> All of the above 
+
+30.) Which of the following is a TCS developed RPA tool? 
+
+-> Cognix AWB 
+
+31.) Which of the following is a sub set of Artificial Intelligence, associated with how to program machines to analyze & process natural language data? 
+
+->Natural Language Processing 
+
+32.) ________________ deals with the application of advanced technologies, includingartificial intelligence (AI) and machine learning (ML), to increasingly automate processes and augment humans. 
+
+-> Hyperautomation 
+
+33.) Select the incorrect statement 
+
+-> In cognitive automation, each and every step is pre-programmed 
+
+34.) A customer is looking for efficient alert management for its Data Centre operations for reducing human effort in monitoring and actioning. Which one may not be the Automation solution in this scenario? 
+
+-> OneEngine 
+
+35.) ______________ is a technology stream that allows configuring software robots, to mimic human actions while working with digital systems to execute a given process 
+
+-> Robotic Process Automation 
